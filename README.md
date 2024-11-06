@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer, Full Stack Aspirer</h3>
 
 <p align="center">
-  <img src="./profile-image.png" alt="profile-image" width="250" height="250" />
+  <img src="./profile-image.png" alt="profile-image" width="250" style="height: auto;" />
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
